@@ -1,0 +1,16 @@
+html,body{
+	padding: 0;
+	margin: 0;
+}
+.custom{
+	width: 600px;
+	margin: 70px auto;
+	padding: 50px;
+	border-radius: 10px;
+	background-color: #ecf0f1;
+	
+}
+.form-group{
+	font-family: inherit;
+	font-weight: 700;
+}
